@@ -4,10 +4,7 @@
 package com.appiancorp.plugins.appianworld.advancedplugins.datatypes;
 
 import java.util.Date;
-import java.util.List;
 import java.util.Set;
-
-import javax.persistence.Column;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;

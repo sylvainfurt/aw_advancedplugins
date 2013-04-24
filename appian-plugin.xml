@@ -3,7 +3,7 @@
   <plugin-info>
     <description>AW Advanced Plugins</description>
     <vendor name="Appian Corporation" url="http://www.appian.com" />
-    <version>1.0.10</version>
+    <version>1.0.11</version>
     <application-version min="7.1.0" />
   </plugin-info>
 
