@@ -3,11 +3,11 @@
   <plugin-info>
     <description>AW Advanced Plugins</description>
     <vendor name="Appian Corporation" url="http://www.appian.com" />
-    <version>1.0.11</version>
+    <version>1.0.12</version>
     <application-version min="7.1.0" />
   </plugin-info>
 
-   <!-- Declare the datatype Address based on the POJO AddressDataType -->  
+    <!-- Declare the datatype Address based on the POJO AddressDataType  -->
   <datatype key="AW_AddressDataType" name="Address for customer for AW">
     <class>com.appiancorp.plugins.appianworld.advancedplugins.datatypes.AddressDataType</class>
   </datatype>
@@ -17,6 +17,4 @@
     <class>com.appiancorp.plugins.appianworld.advancedplugins.datatypes.CustomerDataType</class>
   </datatype>
 
-
-    
 </appian-plugin>
